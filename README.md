@@ -3,7 +3,7 @@
  <p/>
 <h1 align="center"> Hi! I'm Eesha Pranav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Navodya Pasqual, a passionate Software Engineering student 💻.
+I'm Eesha Pranav, a passionate Software Engineering student 💻.
 
 <!-- TODO: Add last video link -->
 
@@ -30,10 +30,6 @@ I'm Navodya Pasqual, a passionate Software Engineering student 💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eeshapranav&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshapranav&theme=dark&layout=compact" width="410" /></p>
 
-------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
-
-Last Edited on: 21/09/2021
