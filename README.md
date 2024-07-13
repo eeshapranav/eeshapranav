@@ -7,9 +7,8 @@ I'm Eesha Pranav, a passionate Software Engineering student 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about TypeScript.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an internship.
+- :seedling: I’m currently learning DSA and backend development.
+- 🤔 I’m looking to collaborate on Full Stack Web development projects.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: He/Him.
 
